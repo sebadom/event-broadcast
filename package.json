@@ -1,0 +1,22 @@
+{
+  "name": "event-broadcast",
+  "version": "1.0.0",
+  "description": "Module that will expose a function to convert any fiven object in an Event broadcaster / emitter / dispatcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "trigger",
+    "on",
+    "dispatch",
+    "emit"
+  ],
+  "author": "Sebastian Dominguez sebadominguezpicchio@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
